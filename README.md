@@ -153,7 +153,7 @@ chmod +x *.sh
 
 ## 🔗 GitHub Repository
 
-👉 
+👉 https://github.com/rashi-gaur/linux_shell_scripting_oss_rashi
 
 ---
 
